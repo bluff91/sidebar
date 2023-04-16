@@ -247,6 +247,12 @@ Sidebar
   align-items: center;
   padding: 1rem 1.5rem;
 }
+
+.sidebar-header img {
+  width: 75px;
+  height: 55px;
+}
+
 .close-btn {
   font-size: 1.75rem;
   background: transparent;
